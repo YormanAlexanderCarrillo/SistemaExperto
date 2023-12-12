@@ -1,32 +1,62 @@
-Título,Género,Edad
-Titanic,Drama,16
-Avatar,Acción,18
-Toy Story,Animación,6
-Jurassic Park,Aventura,12
-Inception,Ciencia Ficción,18
-The Godfather,Drama,18
-E.T. the Extra-Terrestrial,Familiar,8
-The Dark Knight,Acción,16
-Forrest Gump,Drama,14
-The Matrix,Ciencia Ficción,16
-Star Wars:A New Hope,Aventura,10
-Shrek,Comedia,10
-Pulp Fiction,Drama,18
-The Lion King,Familiar,8
-The Shawshank Redemption,Drama,18
-The Silence of the Lambs,Terror,18
-The Avengers,Acción,14
-Gone with the Wind,Drama,16
-Casablanca,Romance,16
-The Wizard of Oz,Familiar,6
-The Lord of the Rings: The Fellowship of the Ring,Aventura,14
-Frozen,Animación,6
-Back to the Future,Ciencia Ficción,12
-Harry Potter and the Sorcerer's Stone,Familiar,10
-The Social Network,Drama,16
-The Great Gatsby,Drama,16
-The Revenant,Aventura,18
-La La Land,Musical,12
-Mad Max: Fury Road,Acción,16
-Inglourious Basterds,Bélica,18
-Interstellar,Ciencia Ficción,16
+Título,Género,Edad,Calificación,Año
+Titanic,Drama,16,4,1997
+Avatar,Acción,18,5,2009
+Toy Story,Animación,6,4,1995
+Jurassic Park,Aventura,12,3,1993
+Inception,Ciencia Ficción,18,5,2010
+The Godfather,Drama,18,5,1972
+E.T. the Extra-Terrestrial,Familiar,8,4,1982
+The Dark Knight,Acción,16,5,2008
+Forrest Gump,Drama,14,4,1994
+The Matrix,Ciencia Ficción,16,4,1999
+Star Wars: A New Hope,Aventura,10,4,1977
+Shrek,Comedia,10,4,2001
+Pulp Fiction,Drama,18,5,1994
+The Lion King,Familiar,8,4,1994
+The Shawshank Redemption,Drama,18,5,1994
+The Silence of the Lambs,Terror,18,4,1991
+The Avengers,Acción,14,4,2012
+Gone with the Wind,Drama,16,3,1939
+Casablanca,Romance,16,4,1942
+The Wizard of Oz,Familiar,6,4,1939
+The Lord of the Rings: The Fellowship of the Ring,Aventura,14,5,2001
+Frozen,Animación,6,4,2013
+Back to the Future,Ciencia Ficción,12,4,1985
+Harry Potter and the Sorcerer's Stone,Familiar,10,4,2001
+The Social Network,Drama,16,3,2010
+The Great Gatsby,Drama,16,4,2013
+The Revenant,Aventura,18,5,2015
+La La Land,Musical,12,4,2016
+Mad Max: Fury Road,Acción,16,5,2015
+Inglourious Basterds,Bélica,18,4,2009
+Interstellar,Ciencia Ficción,16,5,2014
+The Terminator,Acción,16,4,1984
+The Princess Bride,Aventura,10,4,1987
+The Grand Budapest Hotel,Comedia,14,4,2014
+The Shining,Terror,18,5,1980
+Blade Runner,Ciencia Ficción,18,5,1982
+The Departed,Drama,18,5,2006
+Jaws,Terror,16,4,1975
+Fight Club,Drama,18,5,1999
+The Incredibles,Animación,8,4,2004
+Casino Royale,Acción,16,4,2006
+The Big Lebowski,Comedia,16,4,1998
+Gravity,Ciencia Ficción,14,5,2013
+The Sound of Music,Musical,10,4,1965
+Jurassic World,Acción,12,4,2015
+Amélie,Romance,14,4,2001
+The Dark Knight Rises,Acción,16,5,2012
+The Sixth Sense,Terror,16,4,1999
+Coco,Animación,8,4,2017
+The Green Mile,Drama,18,5,1999
+Memento,Drama,18,5,2000
+The Wolf of Wall Street,Comedia,18,5,2013
+The Jungle Book,Aventura,10,4,2016
+Spirited Away,Animación,8,4,2001
+The Usual Suspects,Crimen,18,5,1995
+The Great Escape,Bélica,16,4,1963
+The Pianist,Drama,18,5,2002
+The Good, the Bad and the Ugly,Western,16,5,1966
+The Lion King II: Simba's Pride,Familiar,8,4,1998
+Finding Nemo,Animación,6,4,2003
+The Lord of the Rings: The Two Towers,Aventura,14,5,2002
